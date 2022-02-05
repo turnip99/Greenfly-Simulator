@@ -1,0 +1,33 @@
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.exe.config
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.exe
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.pdb
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.csprojResolveAssemblyReference.cache
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly_Simulator.MainForm.resources
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly_Simulator.Properties.Resources.resources
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.csproj.GenerateResource.Cache
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.exe
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.pdb
+F:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly_Simulator.StartUp.resources
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.exe.config
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.exe
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.pdb
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.exe
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.pdb
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.csprojResolveAssemblyReference.cache
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly_Simulator.MainForm.resources
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly_Simulator.Properties.Resources.resources
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly_Simulator.StartUp.resources
+E:\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Old USB Backup\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.exe.config
+C:\Users\Admin\Documents\Old USB Backup\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.exe
+C:\Users\Admin\Documents\Old USB Backup\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.pdb
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.exe.config
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.exe
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\bin\Debug\Greenfly Simulator.pdb
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.csprojResolveAssemblyReference.cache
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly_Simulator.MainForm.resources
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly_Simulator.Properties.Resources.resources
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly_Simulator.StartUp.resources
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.csproj.GenerateResource.Cache
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.exe
+C:\Users\turni\Documents\Old USB Backup (A-level)\Computing\Programs\Greenfly Simulator\Greenfly Simulator\obj\Debug\Greenfly Simulator.pdb
